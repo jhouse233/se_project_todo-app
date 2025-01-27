@@ -1,17 +1,17 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This is a simple to-do application
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+This project focuses on reorganizing code to emphasize Object Oriented Programming.
+
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+HTML, CSS and JavaScript
 
 ## Deployment
 
-This project is deployed on GitHub Pages:
+https://github.com/jhouse233/se_project_todo-app.git
 
-- ADD LINK HERE

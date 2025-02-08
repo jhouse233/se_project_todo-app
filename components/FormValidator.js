@@ -75,13 +75,6 @@ class FormValidator {
   }
 
 
-  // checkInputValidity() {
-  //   this._inputList.forEach((inputElement) => {
-  //     this._checkInputValidity(inputElement);
-  //     this._toggleButtonState(this._inputList);
-  //   });
-  // }
-
   disableSubmit() {
     this._buttonElement.classList.add(this._inactiveButtonClass);
     this._buttonElement.setAttribute("disabled", true);

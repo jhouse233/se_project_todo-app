@@ -10,7 +10,8 @@ import TodoCounter from '../components/TodoCounter.js';
 
 const addTodoButton = document.querySelector('.button_action_add')
 const addTodoPopup = document.querySelector('#add-todo-popup')
-const addTodoForm = addTodoPopup.querySelector('.popup__form')
+// const addTodoForm = addTodoPopup.querySelector('.popup__form')
+const addTodoForm = document.forms["add-todo-form"]
 
 const todoCounter = new TodoCounter(initialTodos, '.counter')
 const newTodoValidator = new FormValidator(validationConfig, addTodoForm)
